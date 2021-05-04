@@ -26,4 +26,4 @@ async def indir(ctx, url):
         await ctx.send(f"**👎 Video indirilemedi. Bir hata ile karşılaşıldı.**")
 
 
-bot.run('ODM5MTE4MTA5MjQ2NzUwNzMw.YJE_ow.gSFiPbo0arEd5qgOruiA0XY2YQw')       
+bot.run('TOKEN')       
