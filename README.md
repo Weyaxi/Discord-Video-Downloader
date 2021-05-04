@@ -2,6 +2,8 @@
 
 📁 Basitçe geliştirdiğim, Discord üzerinden url olarak belirttiğiniz videoyu bilgisayarınıza indirilen bir bottur. Bot, indirebileceği en yüksek video kalitesini belirttiğiniz dizine indirir. 
 
+📁 **Botun Yazıldığı Dil:** Python
+
 # Kodda Değiştireceğiniz Yerler
 
 📁 Kodda path bölümündeki yeri, videoyu indirmek istediğiniz dizin olarak ayarlamanız gerekmektedir. Bununla birlikte token kısmındaki yeri ise, sahip olduğunuz botun tokeni olarak değiştirmeniz de değiştirmeniz gereken şeyler arasında yer almakta.
