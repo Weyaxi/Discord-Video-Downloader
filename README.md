@@ -20,6 +20,6 @@
 
 **📥 Video Şu Dizine İndiriliyor:** `dizin` 
 
-**🎉 Video Adı:** `{video_başlığı}`
+**🎉 Video Adı:** `video_başlığı`
 
 **👍 Video başarıyla belirtilen dizine indirdildi.**
