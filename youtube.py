@@ -10,6 +10,7 @@ async def on_ready():
     print(f'{bot.user.name} Olarak Giriş Yapıldı')
     print(f'Discord Versiyonu {discord.__version__}')
     print('----------------------------')
+    await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.playing, name=f"!indir"))
 
 @bot.command()
 async def indir(ctx, url):
